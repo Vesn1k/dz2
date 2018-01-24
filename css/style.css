@@ -123,3 +123,10 @@ footer{
 	font-family: "Open Sans",sans-serif;
 	font-size: 13px;
 }
+.footer__text{
+	float: right;
+	margin: -25px 30px;
+	color: #2c2c2c;
+	font-family: "Open Sans", sans-serif;
+	font-size: 13px;
+}
